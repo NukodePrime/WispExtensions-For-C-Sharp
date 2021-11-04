@@ -1,4 +1,5 @@
 # WispExtensions-For-C-Sharp
+Extension methods enable you to "add" methods to existing types without creating a new derived type, recompiling, or otherwise modifying the original type.
 
 ## String extensions :
 
